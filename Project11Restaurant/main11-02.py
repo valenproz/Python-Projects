@@ -26,7 +26,7 @@ while True:
             os.system("cls")
 
     elif selection == "2":
-        restaurante.get_results()
+        restaurant.get_results()
         time.sleep(2.0)
         os.system("cls")
 
